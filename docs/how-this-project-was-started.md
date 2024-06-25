@@ -1,12 +1,12 @@
 # How this project was started
 
-[Documentation](https://react-redux.js.org/introduction/getting-started)
+[Documentation](#TODO)
 
 Initialize project:
 
 `project root`:
 ``` shell
-npx degit reduxjs/redux-templates/packages/vite-template-redux my-app
+TODO
 ```
 
 Install:
