@@ -7,7 +7,9 @@ Load a single HTML file and JavaScript loads the entire UI including routes.
 Pros:
 - The react app can have multiple routes with fast load times, but this might be bad for Search Engine Optimization (SEO) since everything is loaded into a single web page.
 
-TODO
+In this project, the single page is a static HTML file: [index.html](../react-crash-2024/index.html)
+
+In this HTML file, [main.jsx](../react-crash-2024/src/main.jsx) gets pulled into the page, creating the root JSX inside the target root element, using `ReactDOM.createRoot(rootElement).render(...<jsx>...)`
 
 ## Server Side Rendered (SSR)
 
