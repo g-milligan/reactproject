@@ -29,3 +29,7 @@ npm install
 npm run dev
 ```
 Then go to <http://localhost:5173/>
+
+## VSCode Plugins
+
+- [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) by dsznajder
