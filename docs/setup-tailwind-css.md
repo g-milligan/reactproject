@@ -24,4 +24,8 @@ npx tailwindcss init -p
 
 ## Update the tailwind theme
 
+[Code diff](https://github.com/g-milligan/reactproject/commit/d75a3bd80d01b53e1326f4e5b0e48380ca7f8667)
+
+## Add tailwind directives to css
+
 [Code diff](#TODO)
