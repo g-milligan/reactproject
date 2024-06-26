@@ -5,7 +5,10 @@
 Load a single HTML file and JavaScript loads the entire UI including routes.
 
 Pros:
-- The react app can have multiple routes with fast load times, but this might be bad for Search Engine Optimization (SEO) since everything is loaded into a single web page.
+- The react app can have multiple routes with fast load times
+
+Cons:
+- This is bad for Search Engine Optimization (SEO) since everything is loaded into a single web page.
 
 In this project, the single page is a static HTML file: [index.html](../react-crash-2024/index.html)
 
