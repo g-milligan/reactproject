@@ -11,3 +11,4 @@ The purpose of this project is to demonstrate concepts related to React
 - [Adding page routes](docs/adding-page-routes.md)
 - [Adding layouts](docs/adding-layouts.md)
 - [Adding a new route page](docs/adding-new-route-page.md)
+- [Avoiding page reload with Link](docs/link-versus-anchor.md)
