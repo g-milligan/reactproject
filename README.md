@@ -1,6 +1,6 @@
-# React Redux project
+# React project
 
-The purpose of this project is to demonstrate concepts related to React / Redux
+The purpose of this project is to demonstrate concepts related to React
 
 ## Topics
 
