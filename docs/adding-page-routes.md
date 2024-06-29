@@ -11,4 +11,4 @@ npm install react-router-dom
 
 Make changes to the App.jsx to establish the HomPage route:
 
-[Sample diff](#TODO)
+[Sample diff](https://github.com/g-milligan/reactproject/commit/7846e69241ab2938028f3b6cf755eec22b43d8f9)
