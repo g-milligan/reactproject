@@ -16,3 +16,5 @@ The purpose of this project is to demonstrate concepts related to React
 - Changing active navbar tab style for current page: [Code diff](https://github.com/g-milligan/reactproject/commit/82488cfc90e31dc9644b75f750e79f1fde932278)
 - [json-server mock database](docs/json-server.md)
 - Create a spinner and limit job count: [Code diff](https://github.com/g-milligan/reactproject/commit/9acaeab2984bcd89a09b47b9d31f631bc5783a2d)
+- [Setup a URL proxy using Vite](docs/url-proxy-using-vite.md)
+- JobPage loading data with `useEffect`: [Code diff](#TODO)
