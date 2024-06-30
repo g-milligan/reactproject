@@ -12,3 +12,4 @@ The purpose of this project is to demonstrate concepts related to React
 - [Adding layouts](docs/adding-layouts.md)
 - [Adding a new route page](docs/adding-new-route-page.md)
 - [Avoiding page reload with Link](docs/link-versus-anchor.md)
+- Create a NOT found 404 page: [Code diff](#TODO)
