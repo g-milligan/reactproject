@@ -18,4 +18,4 @@ The purpose of this project is to demonstrate concepts related to React
 - Create a spinner and limit job count: [Code diff](https://github.com/g-milligan/reactproject/commit/9acaeab2984bcd89a09b47b9d31f631bc5783a2d)
 - [Setup a URL proxy using Vite](docs/url-proxy-using-vite.md)
 - JobPage loading data with `useEffect`: [Code diff](https://github.com/g-milligan/reactproject/commit/6150c3128f20f34f4f5a90a19065e52cbb555529)
-- JobPage loading data with `dataLoader`: [Code diff](#TODO)
+- JobPage loading data with `dataLoader`: [Code diff](https://github.com/g-milligan/reactproject/commit/7220155f981f7ffcc3c9976d017df68a76cfcd35)
